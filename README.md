@@ -10,3 +10,11 @@
 
 # Download:
 - [Revision v1.1]()
+
+# Requirements:
+- [Python 3.9+](https://www.python.org/downloads/)
+- Random Module - Normally Comes With [Python 3.9+](https://www.python.org/downloads/).
+- Base64 Module - Normally Comes With [Python 3.9+](https://www.python.org/downloads/).
+- Time Module - Normally Comes With [Python 3.9+](https://www.python.org/downloads/).
+- Keyboard - Needs to be installed via [PiP](https://realpython.com/what-is-pip/#:~:text=Using%20Python%27s%20pip%20to%20Manage%20Your%20Projects%27%20Dependencies,Python%20is%20considered%20a%20batteries%20included%20language.%20).
+- PyAutoGui Module - Needs to be installed via [PiP](https://realpython.com/what-is-pip/#:~:text=Using%20Python%27s%20pip%20to%20Manage%20Your%20Projects%27%20Dependencies,Python%20is%20considered%20a%20batteries%20included%20language.%20).
