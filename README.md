@@ -3,7 +3,8 @@
 - And because the Developer added an AFK Detection Algorithm.
 
 # Features:
-- Spins the player around when they're a survivpr (stops the game from detecting you as afk ***Also Turning Doesn't count as driving, so the shark can't see you as easily.***).
+- Spins the player around when they're a survivor. And stops the game from detecting you as being AFK.
+- Turning Doesn't count as driving, so the shark can't see you as easily. (The game counts it as being active).
 - If you're chosen as the shark, the script will attempt to use the "Speed" special, and move around.
 
 # Notice:
