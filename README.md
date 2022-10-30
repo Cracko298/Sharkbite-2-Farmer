@@ -1,4 +1,4 @@
-# Sharkbit-2-Anti-AFK-Detector
+# Why?
 - Made to farm teeth because I'm too lazy!
 
 # Features:
