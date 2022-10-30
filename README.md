@@ -1,5 +1,6 @@
 # Why?
 - Made to farm teeth because I'm too lazy!
+- And because the Developer added an AFK Detection Algorithm.
 
 # Features:
 - Spins the player around when they're a survivpr (stops the game from detecting you as afk ***Also Turning Doesn't count as driving, so the shark can't see you as easily.***).
