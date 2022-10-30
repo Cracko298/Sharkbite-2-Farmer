@@ -1,4 +1,5 @@
 # Why?
+- Because Why Not?
 - Made to farm teeth because I'm too lazy!
 - And because the Developer added an AFK Detection Algorithm.
 
