@@ -4,9 +4,9 @@ from random import randint
 import base64
 import pyautogui
 import time
-data = "Q3JlYXRlZCBCeTogQ3JhY2tvMjk4" ; data1 = base64.b64decode(data) ; data0 = data1.decode('utf-8')
+data = "Q3JlYXRlZCBCeTogQ3JhY2tvMjk4" ; data1 = base64.b64decode(data) ; data0 = data1.decode('utf-8') ; keypress = 'alt'
 dat = "Q2xpY2sgdGhlIFJvYmxveCBHYW1lIFdpbmRvdyAmIFByZXNzIHRoZSAnY3RybCcgS2V5IQ==" ; dat1 = base64.b64decode(dat) ; dat0 = dat1.decode('utf-8')
-da = "VG8gRXhpdC4gUHJlc3MgdGhlICdhbHQnIEtleS4=" ; da1 = base64.b64decode(da) ; da0 = da1.decode('utf-8')
+da = "VG8gRXhpdC4gUHJlc3MgdGhlIGFuZCBob2xkICdhbHQnIEtleS4gKEFmdGVyIHlvdSBoZXJlIGEgbm90aWZpY2F0aW9uIHNvdW5kIFByZXNzICdhbHQnIHR3aWNlKS4=" ; da1 = base64.b64decode(da) ; da0 = da1.decode('utf-8')
 
 
 print(data0) ; print(" ") ; print(dat0) ; print(da0) ; print(" ")
@@ -14,14 +14,124 @@ localtime = time.asctime(time.localtime(time.time()))
 
 keyboard.wait('Ctrl')
 
-while 1==1:
-    keyboard.press('a')
-    sleep(randint(2,10))
-    keyboard.release('a')
+while keyboard.read_key() != "alt":
+    subconf = pyautogui.locateCenterOnScreen('subconfirm.png', confidence=0.55)
+    under0 = pyautogui.locateCenterOnScreen('underwater.png', confidence=0.55)
+    under1 = pyautogui.locateCenterOnScreen('under.png', confidence=0.55)
+    under2 = pyautogui.locateCenterOnScreen('darkestwat.png', confidence=0.55)
+    under3 = pyautogui.locateCenterOnScreen('darkhill.png', confidence=0.55)
+    under4 = pyautogui.locateCenterOnScreen('darkwat.png', confidence=0.55)
+    under5 = pyautogui.locateCenterOnScreen('lightestwat.png', confidence=0.55)
+    under6 = pyautogui.locateCenterOnScreen('lightwat.png', confidence=0.55)
+    keyboard.press_and_release('Ctrl')
 
+
+    def Sub_Movement():
+        keyboard.press_and_release('Ctrl')
+        global subconf
+        keyboard.press('q')
+        sleep(randint(3,6))
+        keyboard.release('q')
+        keyboard.press('e')
+        sleep(randint(3,6))
+        keyboard.release('e')
+
+    keyboard.press('a')
+    sleep(randint(2,8))
+    keyboard.release('a')
     keyboard.press('d')
-    sleep(randint(2,12))
+    sleep(randint(2,7))
     keyboard.release('d')
+
+    if subconf != None:
+        Sub_Movement()
+    if under0 != None:
+        Sub_Movement()
+    if under1 != None:
+        Sub_Movement()
+    if under2 != None:
+        Sub_Movement()
+    if under3 != None:
+        Sub_Movement()
+    if under4 != None:
+        Sub_Movement()
+    if under5 != None:
+        Sub_Movement()
+    if under6 != None:
+        Sub_Movement()
+
+    if subconf != True:
+        keyboard.press_and_release('Ctrl')
+        keyboard.press('a')
+        sleep(randint(2,8))
+        keyboard.release('a')
+        keyboard.press('d')
+        sleep(randint(2,7))
+        keyboard.release('d')
+
+    if under0 != True:
+        keyboard.press_and_release('Ctrl')
+        keyboard.press('a')
+        sleep(randint(2,8))
+        keyboard.release('a')
+        keyboard.press('d')
+        sleep(randint(2,7))
+        keyboard.release('d')
+
+    if under1 != True:
+        keyboard.press_and_release('Ctrl')
+        keyboard.press('a')
+        sleep(randint(2,8))
+        keyboard.release('a')
+        keyboard.press('d')
+        sleep(randint(2,7))
+        keyboard.release('d')
+
+    if under2 != True:
+        keyboard.press_and_release('Ctrl')
+        keyboard.press('a')
+        sleep(randint(2,8))
+        keyboard.release('a')
+        keyboard.press('d')
+        sleep(randint(2,7))
+        keyboard.release('d')
+
+    if under3 != True:
+        keyboard.press_and_release('Ctrl')
+        keyboard.press('a')
+        sleep(randint(2,8))
+        keyboard.release('a')
+        keyboard.press('d')
+        sleep(randint(2,7))
+        keyboard.release('d')
+
+    if under4 != True:
+        keyboard.press_and_release('Ctrl')
+        keyboard.press('a')
+        sleep(randint(2,8))
+        keyboard.release('a')
+        keyboard.press('d')
+        sleep(randint(2,7))
+        keyboard.release('d')
+
+    if under5 != True:
+        keyboard.press_and_release('Ctrl')
+        keyboard.press('a')
+        sleep(randint(2,8))
+        keyboard.release('a')
+        keyboard.press('d')
+        sleep(randint(2,7))
+        keyboard.release('d')
+
+    if under6 != True:
+        keyboard.press_and_release('Ctrl')
+        keyboard.press('a')
+        sleep(randint(2,8))
+        keyboard.release('a')
+        keyboard.press('d')
+        sleep(randint(2,7))
+        keyboard.release('d')
+
 
     def shark_movement1():
         shark_movement = randint(1,6)
@@ -56,8 +166,20 @@ while 1==1:
 
 
 
-    shark_ifso = pyautogui.locateCenterOnScreen('shark.png', confidence=0.8)
-    shark_special = pyautogui.locateOnScreen('go.png', confidence=0.8)
+    shark_ifso = pyautogui.locateCenterOnScreen('shark.png', confidence=0.55)
+    shark_special = pyautogui.locateOnScreen('go.png', confidence=0.55)
+    ducksubmarine = pyautogui.locateCenterOnScreen('ducksub.png', confidence=0.55)
+    militarymarine = pyautogui.locateCenterOnScreen('milsub.png', confidence=0.55)
+
+    if militarymarine != None:
+        print("Player Used 'Military Submarine' as Submarine. - "+ localtime)
+        sleep(randint(10,14))
+        Sub_Movement()
+    
+    if ducksubmarine != None:
+        print("Player Used 'Duckmarine' as Submarine. - "+ localtime)
+        sleep(randint(10,14))
+        Sub_Movement()
 
     def Shark_1Special():
         shark_movement1()
@@ -69,8 +191,5 @@ while 1==1:
 
     if shark_special != None:
         Shark_1Special()
-    
-    if keyboard.press_and_release('alt'):
-        print("Exiting The Script.")
-        sleep(3)
-        exit()
+
+exit()

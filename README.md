@@ -7,12 +7,13 @@
 - Spins the player around when they're a survivor. And stops the game from detecting you as being AFK.
 - Turning Doesn't count as driving, so the shark can't see you as easily. (The game counts it as being active).
 - If you're chosen as the shark, the script will attempt to use the "Speed" special, and move around.
+- Submarine Update: Press's 'Q' & 'E' when it detects a submarine is being used instead of a boat.
 
 # Notice:
 - This is ***NOT*** a hack-script. It does ***NOT*** modify the game in any capacity.
 
 # Download:
-- [Revision v1.1](https://github.com/Cracko298/Sharkbite-2-Farmer/releases/download/v1.1-alpha-1/Farm-Tool.zip)
+- [Revision v1.2](https://github.com/TheIncredibleToaster/Sharkbite-2-Farmer/blob/main/Farm-Tool%20(v1.2).zip?raw=true)
 
 # Requirements:
 - [Python 3.9+](https://www.python.org/downloads/)
