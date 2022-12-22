@@ -4,11 +4,11 @@
 
 # Features:
 - Clicks Multiple Different Things. Mainly to-do with the AFK-Detection Algorithm.
-- The Newest ***(V3-Script)*** is 78% faster, and 136% more Efficient than ***(V2-Script)***
+- The Newest ***(V3-Script)*** is 78% faster, and 136% more Efficient than the ***(V2-Script)***.
 
 # Notes:
 - This is ***NOT*** a hack-script. It does ***NOT*** modify the game in any capacity.
-- Newest Version ***V3-Script*** Completely Revamps the Original One.
+- Newest Version ***V3-Script*** Completely Revamps the Original ***V1 and V2-Scripts***.
 
 # Download:
 - Download ***[Version V3](https://github.com/Cracko298/Sharkbite-2-Farmer/blob/main/AFK-Tool.zip?raw=true)***
