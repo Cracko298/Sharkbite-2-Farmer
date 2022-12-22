@@ -25,4 +25,4 @@
 # Credits:
 - [@TheIncredibleToaster](https://github.com/TheIncredibleToaster) For help patching the ***V2-Script***. And adding new features in the ***V2-Script***.
 - [@PlayDoughFeet](https://github.com/PlayDoughFeet) For helping with Required Modules, and patching error handles the ***V1-Script***.
-- [@Cracko298](https://github.com/Cracko298) Main Developer.
+- [@Cracko298](https://github.com/Cracko298) Developed All Scripts.
