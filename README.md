@@ -3,11 +3,12 @@
 - And because the Developer added an AFK Detection Algorithm.
 
 # Features:
+- Clicks Multiple Different Things. Mainly to-do with the AFK-Detection Algorithm.
 
-
-# Notice:
+# Notes:
 - This is ***NOT*** a hack-script. It does ***NOT*** modify the game in any capacity.
 - Thanks to [@TheIncredibleToaster](https://github.com/TheIncredibleToaster) for help patching the ***V2-Script***. And adding new features in the ***V2-Script***.
+- Newest Release Completely Revamps the Script.
 
 # Download:
 - [Revision v1.2](https://github.com/Cracko298/Sharkbite-2-Farmer/blob/main/Farm-Tool%20(v1.2).zip?raw=true)
