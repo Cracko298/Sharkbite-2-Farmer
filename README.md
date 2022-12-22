@@ -7,7 +7,7 @@
 
 # Notice:
 - This is ***NOT*** a hack-script. It does ***NOT*** modify the game in any capacity.
-- Thanks to [@TheIncredibleToaster](https://github.com/TheIncredibleToaster) for help patching the ***V2-Script. And adding new features in V2***
+- Thanks to [@TheIncredibleToaster](https://github.com/TheIncredibleToaster) for help patching the ***V2-Script***. And adding new features in the ***V2-Script***.
 
 # Download:
 - [Revision v1.2](https://github.com/Cracko298/Sharkbite-2-Farmer/blob/main/Farm-Tool%20(v1.2).zip?raw=true)
