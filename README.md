@@ -23,3 +23,4 @@
 - "Pillow" Module - Needs to be installed via [PiP](https://realpython.com/what-is-pip/#:~:text=Using%20Python%27s%20pip%20to%20Manage%20Your%20Projects%27%20Dependencies,Python%20is%20considered%20a%20batteries%20included%20language.%20).
 - "Anaconda" Module - Needs to be installed via [PiP](https://realpython.com/what-is-pip/#:~:text=Using%20Python%27s%20pip%20to%20Manage%20Your%20Projects%27%20Dependencies,Python%20is%20considered%20a%20batteries%20included%20language.%20).
 - "opencv-contrib-python" Module - Needs to be installed via [PiP](https://realpython.com/what-is-pip/#:~:text=Using%20Python%27s%20pip%20to%20Manage%20Your%20Projects%27%20Dependencies,Python%20is%20considered%20a%20batteries%20included%20language.%20).
+- *PyDirectInput* - Needs to be installed via [PiP](https://realpython.com/what-is-pip/#:~:text=Using%20Python%27s%20pip%20to%20Manage%20Your%20Projects%27%20Dependencies,Python%20is%20considered%20a%20batteries%20included%20language.%20).
