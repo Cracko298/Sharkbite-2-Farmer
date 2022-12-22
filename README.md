@@ -4,7 +4,7 @@
 
 # Features:
 - Clicks Multiple Different Things. Mainly to-do with the AFK-Detection Algorithm.
-- Newest ***Version V3*** is 78% faster, and 136% more Efficient than ***Version V2***
+- The Newest ***(V3-Script)*** is 78% faster, and 136% more Efficient than ***(V2-Script)***
 
 # Notes:
 - This is ***NOT*** a hack-script. It does ***NOT*** modify the game in any capacity.
