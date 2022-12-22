@@ -11,7 +11,7 @@
 - Newest Version ***V3-Script*** Completely Revamps the Original One.
 
 # Download:
-- [Revision v1.2](https://github.com/Cracko298/Sharkbite-2-Farmer/blob/main/Farm-Tool%20(v1.2).zip?raw=true)
+- Download ***[Version V3](https://github.com/Cracko298/Sharkbite-2-Farmer/blob/main/AFK-Tool.zip?raw=true)***
 
 # Requirements:
 - [Python 3.9+](https://www.python.org/downloads/)
