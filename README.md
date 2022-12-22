@@ -1,6 +1,6 @@
 # Why?
 - Was Made to farm teeth because I'm too lazy!
-- And because the Developer added an AFK Detection Algorithm.
+- And because the Developer added an "AFK Detection Algorithm".
 
 # Features:
 - Clicks Multiple Different Things. Mainly to-do with the AFK-Detection Algorithm.
