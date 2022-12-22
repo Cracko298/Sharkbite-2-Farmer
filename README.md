@@ -8,7 +8,6 @@
 
 # Notes:
 - This is ***NOT*** a hack-script. It does ***NOT*** modify the game in any capacity.
-- Thanks to [@TheIncredibleToaster](https://github.com/TheIncredibleToaster) for help patching the ***V2-Script***. And adding new features in the ***V2-Script***.
 - Newest Version ***V3-Script*** Completely Revamps the Original One.
 
 # Download:
@@ -22,3 +21,8 @@
 - "Anaconda" Module - Needs to be installed via [PiP](https://realpython.com/what-is-pip/#:~:text=Using%20Python%27s%20pip%20to%20Manage%20Your%20Projects%27%20Dependencies,Python%20is%20considered%20a%20batteries%20included%20language.%20).
 - "opencv-python" Module - Needs to be installed via [PiP](https://realpython.com/what-is-pip/#:~:text=Using%20Python%27s%20pip%20to%20Manage%20Your%20Projects%27%20Dependencies,Python%20is%20considered%20a%20batteries%20included%20language.%20).
 - "PyDirectInput" - Needs to be installed via [PiP](https://realpython.com/what-is-pip/#:~:text=Using%20Python%27s%20pip%20to%20Manage%20Your%20Projects%27%20Dependencies,Python%20is%20considered%20a%20batteries%20included%20language.%20).
+
+# Credits:
+- [@TheIncredibleToaster](https://github.com/TheIncredibleToaster) For help patching the ***V2-Script***. And adding new features in the ***V2-Script***.
+- [@PlayDoughFeet]() For helping with Required Modules.
+- [@Cracko298](https://github.com/Cracko298) Main Developer
