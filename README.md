@@ -5,6 +5,7 @@
 # Features:
 - Clicks Multiple Different Things. Mainly to-do with the AFK-Detection Algorithm.
 - The Newest ***(V3-Script)*** is 78% faster, and 136% more Efficient than the ***(V2-Script)***.
+- Compiled Version to ***Work*** on Machines that do NOT have Python Installed.
 
 # Notes:
 - This is ***NOT*** a hack-script. It does ***NOT*** modify the game in any capacity.
