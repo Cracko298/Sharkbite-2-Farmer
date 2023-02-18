@@ -10,9 +10,11 @@
 # Notes:
 - This is ***NOT*** a hack-script. It does ***NOT*** modify the game in any capacity.
 - Newest Version ***V3-Script*** Completely Revamps the Original ***V1 and V2-Scripts***.
+- Download Without Python [Here]()
 
 # Download:
-- Download ***[Version V3](https://github.com/Cracko298/Sharkbite-2-Farmer/blob/main/AFK-Tool.zip?raw=true)***
+- Download Source: ***[Version V3](https://github.com/Cracko298/Sharkbite-2-Farmer/blob/main/AFK-Tool.zip?raw=true)***
+- Download Compiled: ***[Version V3]()
 
 # Requirements:
 - [Python 3.9+](https://www.python.org/downloads/)
