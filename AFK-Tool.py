@@ -59,6 +59,7 @@ while keyboard.is_pressed('Ctrl') != True:
     afk4 = pyautogui.locateCenterOnScreen('_afk4.png', confidence=0.9)
     afk5 = pyautogui.locateCenterOnScreen('_afk5.png', confidence=0.9)
     afk6 = pyautogui.locateCenterOnScreen('_afk01.png', confidence=0.9)
+    afk7 = pyautogui.locateCenterOnScreen('_afk6.png', confidence=0.9)
 
     if afk0 != None:
         pyautogui.moveTo(afk0)
